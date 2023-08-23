@@ -1,0 +1,4 @@
+//importaciones
+//variables
+//funciones
+//declaraciones
